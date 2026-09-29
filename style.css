@@ -104,4 +104,11 @@ p{
         width: 100%;
         height: auto;
     }
+    
+}
+
+@font-face {
+  font-family: 'Luminari';
+  src: url('luminari.woff2') format('woff2'),
+       url('luminari.woff') format('woff');
 }
